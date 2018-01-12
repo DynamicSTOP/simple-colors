@@ -1,0 +1,23 @@
+{
+  "name": "simple-colors",
+  "version": "1.0.0",
+  "description": "Extends String allowing simple colored output to console(terminal) by escaping given string",
+  "main": "simple-colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DynamicSTOP/simple-colors.git"
+  },
+  "keywords": [
+    "console",
+    "color"
+  ],
+  "author": "DynamicSTOP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DynamicSTOP/simple-colors/issues"
+  },
+  "homepage": "https://github.com/DynamicSTOP/simple-colors#readme"
+}
