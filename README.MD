@@ -26,6 +26,10 @@ console.log(`debug info`.debug + ` normal`);
 
 ![image](https://i.imgur.com/b2QKsOM.png)
 
+## Installation  
+
+`npm install https://github.com/DynamicSTOP/simple-colors`  
+
 
 #### Available codes
 
